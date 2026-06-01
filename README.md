@@ -124,3 +124,4 @@ Here is a link to the video that taught me how to print screen in fm 26, the vid
 - The script calculates squad averages dynamically for each run, allowing analysis of different squads without modification.
 - Players under 30 receive training recommendations; older players are excluded as near their peak/decline.
 - Misfits analysis only flags players where alternate positions exceed their natural position by a meaningful margin.
+- Goalkeepers are ignored
